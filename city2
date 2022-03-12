@@ -1,9 +1,0 @@
-# ваша ссылка здесь
-link  =  "https://github.com/LosLina/c2/blob/master/city"
-
-# примечание: это сломается, если репозиторий/организация или вложенная папка названы "blob" - было бы идеально использовать причудливое регулярное выражение
-# если быть точнее здесь
-print ( ссылка . заменить ( "github.com" , "raw.githubusercontent.com" ). заменить ( "/blob/" , "/" ))
-
-# пример выходной ссылки:
-# https://raw.githubusercontent.com/knightlab-analyses/qurro-mackerel-analysis/master/AnalysisOutput/qurro-plot.qzv
